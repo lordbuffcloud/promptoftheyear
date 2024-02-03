@@ -1,10 +1,13 @@
-# Prompt Of The Year: 2023 🌟
+# Prompt Collection
 
 ## Introduction
 
-In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the year across various intriguing domains. 🌐
+In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts across various intriguing domains. 🌐
 
-Join me in this exploration of creativity and technology, where each prompt opens up new possibilities. 🚀
+AUTOCHAT https://chat.openai.com/g/g-LQHhJCXhW-autoexpert-chat
+
+AUTODEV https://chat.openai.com/g/g-pTF23RJ6f-autoexpert-dev
+
 
 ### Domains I Explore
 
